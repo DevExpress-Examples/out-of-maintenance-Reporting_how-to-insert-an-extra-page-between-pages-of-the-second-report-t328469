@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+* [XtraReportInformation.cs](./CS/XtraReportInformation.cs) (VB: [XtraReportInformation.vb](./VB/XtraReportInformation.vb))
+* [XtraReportMain.cs](./CS/XtraReportMain.cs) (VB: [XtraReportMain.vb](./VB/XtraReportMain.vb))
+<!-- default file list end -->
 # How to insert an extra page between pages of the second report
 
 
